@@ -1,1 +1,1 @@
-alert("Login v2")
+alert("Login v2!")
